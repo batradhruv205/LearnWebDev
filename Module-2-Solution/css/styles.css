@@ -37,8 +37,8 @@ section#sectionThree div.sectionHead {
 .sectionHead {
 	float: right;
 	position: relative;
-/*	top:0.5px;
-	right: 0.5px;*/
+	top:0.5px;
+	right: 0.5px;
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 	width:30%;

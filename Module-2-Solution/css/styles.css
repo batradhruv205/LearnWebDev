@@ -10,10 +10,11 @@
 
 h1 {
 	font-size: 1.75em;
+	text-align: center;
 }
 
 section#sectionHolder {
-	
+
 }
 
 section#sectionOne div.sectionHead {

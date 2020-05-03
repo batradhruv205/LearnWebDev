@@ -1,3 +1,11 @@
+## Welcome to my WebDev Course Website
+I'm taking a Coursera course on Web Development and am using this repository and the website to host assignments and my progress.
+
+#### Assignments
+1. Assignment 1: No assignment
+2. Assignment 2: [Submission](https://batradhruv205.github.io/LearnWebDev/Module-2-Solution/index.html)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/batradhruv205/LearnWebDev/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.

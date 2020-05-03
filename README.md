@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my WebDev Course Website
+I'm taking a Coursera course on Web Development and am using this repository and the website to host assignments and my progress. The course is created by John Hopkins University and is taught by Yaakov Chaikin.
+The course is split into three sections: HTML, CSS and Javascript. Through this blog, I will be writing about my experience with the course.
 
-You can use the [editor on GitHub](https://github.com/batradhruv205/LearnWebDev/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+### The setup
+The instructer took us through the course with Sublime Text for writing code, GitHub on the command line (I specify that because I have been using GitHub's desktop app even though it is frowned upon) for version control and for the GitHub Pages functionality, and finally, Browser Sync with NodeJS. 
+Sublime is a wonderful text editor that's pleasant to the eyes and is fairly user friendly as well. For someone who prefers to code in IDEs like Spyder or R Studio, this was a nice experience.
+GitHub is a tough system to understand for newbies because of all this jargon around pull/push/commit that doesn't exactly makes sense to a layman. Nonetheless, this is the go-to platform for version control and we shall use it.
+Browser Sync is my favorite finding out of this course. Makes life so much simpler, removing the need to constantly change windows and refresh the browser.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+#### Assignments
+1. Assignment 1: No assignment
+2. Assignment 2: [Submission](https://batradhruv205.github.io/LearnWebDev/Module-2-Solution/index.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batradhruv205/LearnWebDev/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
